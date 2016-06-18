@@ -1,11 +1,11 @@
 # Markdown Files for Ember episodes on Daily Drip
 
 ## Week 1
-  * Monday - Introduction
-  * Tuesday - Installation, up and running
-  * Wednesday - Installing the Ember Inspector
-  * Thursday
-  * Friday
+  * [Monday - Introduction](https://github.com/baroquon/daily_drip_ember/blob/master/Week1/001.1.md)
+  * [Tuesday - Installation, up and running](https://github.com/baroquon/daily_drip_ember/blob/master/Week1/001.2.md)
+  * [Wednesday - Installing the Ember Inspector](https://github.com/baroquon/daily_drip_ember/blob/master/Week1/001.3.md)
+  * [Thursday]()
+  * [Friday]()
 
 ## Week 2
   * Monday
