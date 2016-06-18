@@ -4,7 +4,7 @@
   * [Monday - Introduction](https://github.com/baroquon/daily_drip_ember/blob/master/Week1/001.1.md)
   * [Tuesday - Installation, up and running](https://github.com/baroquon/daily_drip_ember/blob/master/Week1/001.2.md)
   * [Wednesday - Installing the Ember Inspector](https://github.com/baroquon/daily_drip_ember/blob/master/Week1/001.3.md)
-  * [Thursday](https://github.com/baroquon/daily_drip_ember/blob/master/Week1/001.4.md)
+  * [Thursday - Router, Routes, and Controller Basics](https://github.com/baroquon/daily_drip_ember/blob/master/Week1/001.4.md)
   * [Friday](https://github.com/baroquon/daily_drip_ember/blob/master/Week1/001.5.md)
 
 ## Week 2
