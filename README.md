@@ -92,20 +92,3 @@
   * Thursday
   * Friday
 
-
-
-### Notes:
-
-#### Stuff I will eventually cover:
-
-  1. Peek vs find (include backgroundReload notes)
-  2. query !== live array
-  3. Component Helper: https://dockyard.com/blog/2016/05/13/component-helper
-  4. pushPayload and push (SSE / Web Sockets)
-  5. EmberUploader
-
-
-Questions asked on slack:
-does anyone who uses `ember-metrics` know if there’s a way to get it to use Intercom (via`trackPage`) loading a user’s messages automatically, for example
-
-Is it possible to create a computed property that sums the values of a property of the children (hasMany association)?  Say I had a team with multiple players where each player has a goals total attr, how could I create a computed property that maps by key and sums in one computed property? Right now I mapBy and then sum the resulting mapBy property
