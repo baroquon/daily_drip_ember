@@ -8,7 +8,7 @@
   * [Friday - Exercise - Building Nested Routes](https://github.com/baroquon/daily_drip_ember/blob/master/Week1/001.5.md)
 
 ## Week 2
-  * Monday
+  * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.1.md)
   * Tuesday
   * Wednesday
   * Thursday
