@@ -9,7 +9,7 @@
 
 ## Week 2
   * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.1.md)
-  * Tuesday
+  * [Tuesday - Components and Actions](https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.2.md)
   * Wednesday
   * Thursday
   * Friday
@@ -91,4 +91,3 @@
   * Wednesday
   * Thursday
   * Friday
-
