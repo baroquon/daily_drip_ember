@@ -10,8 +10,8 @@
 ## Week 2
   * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.1.md)
   * [Tuesday - Components and Actions](https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.2.md)
-  * Wednesday
-  * Thursday
+  * [Wednesday - The Model Hook and Data Retrieval](https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.3.md)
+  * [Thursday - Setting up Models and Adapters](https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.4.md)
   * Friday
 
 ## Week 3
