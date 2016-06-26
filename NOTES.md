@@ -8,3 +8,6 @@
   4. pushPayload and push (SSE / Web Sockets)
   5. EmberUploader
   6. Build an addon
+  7. Fastboot http://www.ember-fastboot.com/
+  8. https://emberway.io/ember-concurrency-the-solution-to-so-many-problems-you-never-knew-you-had-cce6d7731ba9#.nb4q84mht
+  
