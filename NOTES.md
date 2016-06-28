@@ -13,3 +13,7 @@
   9. https://github.com/nolanlawson/ember-pouch
   10. http://jkusa.github.io/ember-redux-helpers
   
+## Links
+
+  1. http://blog.planetargon.com/entries/2016/6/9/go-offline-with-ember?utm_source=Ember+Weekly&utm_campaign=3ecb67e3af-Ember_Weekly_Issue_164&utm_medium=email&utm_term=0_e96229d21d-3ecb67e3af-106372789
+  2. 
