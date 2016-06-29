@@ -12,10 +12,10 @@
   * [Tuesday - Components and Actions](https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.2.md)
   * [Wednesday - The Model Hook and Ember Data Store](https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.3.md)
   * [Thursday - Setting up Models and Adapters](https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.4.md)
-  * Friday
+  * [Friday - Exercise - Building Nested Route with a Model](https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.5.md)
 
 ## Week 3
-  * Monday
+  * [Monday - Solution and Test Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week3/003.1.md)
   * Tuesday
   * Wednesday
   * Thursday
