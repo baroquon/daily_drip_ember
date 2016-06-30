@@ -19,4 +19,4 @@
 ## Links
 
   1. http://blog.planetargon.com/entries/2016/6/9/go-offline-with-ember
-  2. 
+  2. [Functional Programming In Ember? The Ember-Redux Origin Story from Toran Billups](https://vimeo.com/166199795)
