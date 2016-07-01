@@ -16,7 +16,7 @@
 
 ## Week 3
   * [Monday - Solution and Test Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week3/003.1.md)
-  * Tuesday
+  * [Tuesday - Unit and Integration Tests](https://github.com/baroquon/daily_drip_ember/blob/master/Week3/003.2.md)
   * Wednesday
   * Thursday
   * Friday
