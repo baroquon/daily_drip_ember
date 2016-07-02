@@ -15,7 +15,8 @@
   11. component layout property 
     * import hbs from 'htmlbars-inline-precompile';
     * layout: hbs`some handbars`
-  
+  12. https://github.com/ember-cli/ember-try
+
 ## Links
 
   1. http://blog.planetargon.com/entries/2016/6/9/go-offline-with-ember
