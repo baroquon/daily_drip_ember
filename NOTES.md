@@ -23,3 +23,4 @@
   2. [Functional Programming In Ember? The Ember-Redux Origin Story from Toran Billups](https://vimeo.com/166199795)
   3. https://dockyard.com/blog/2015/03/24/rubyists-guide-to-ember-dependencies
   4. https://medium.com/peep-stack/building-a-performant-web-app-with-ember-fastboot-and-phoenix-part-1-fa1241654308#.f71xu6y19
+  5. https://youtu.be/pl3qRS0Iky4 - Ember at Netflix
