@@ -19,6 +19,8 @@
   13. https://github.com/ember-animation/liquid-fire <-can believe I forgot this
   14. https://github.com/vestorly/torii
   15. https://github.com/simplabs/ember-simple-auth
+  16. https://github.com/brzpegasus/ember-d3 or https://github.com/ming-codes/ember-cli-d3 i dunno
+    * https://github.com/LocusEnergy/ember-d3-helpers
 
 ## Links
 
