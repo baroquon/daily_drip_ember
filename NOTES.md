@@ -16,6 +16,7 @@
     * import hbs from 'htmlbars-inline-precompile';
     * layout: hbs`some handbars`
   12. https://github.com/ember-cli/ember-try
+  13. https://github.com/Netflix/ember-nf-graph
 
 ## Links
 
