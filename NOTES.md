@@ -18,6 +18,11 @@
   12. https://github.com/ember-cli/ember-try
   13. https://github.com/Netflix/ember-nf-graph
   14. The Ember Run Loop :-(
+  15. https://github.com/ember-animation/liquid-fire <-can believe I forgot this
+  16. https://github.com/vestorly/torii
+  17. https://github.com/simplabs/ember-simple-auth
+  18. https://github.com/brzpegasus/ember-d3 or https://github.com/ming-codes/ember-cli-d3 i dunno
+    * https://github.com/LocusEnergy/ember-d3-helpers
 
 ## Links
 
@@ -25,4 +30,4 @@
   2. [Functional Programming In Ember? The Ember-Redux Origin Story from Toran Billups](https://vimeo.com/166199795)
   3. https://dockyard.com/blog/2015/03/24/rubyists-guide-to-ember-dependencies
   4. https://medium.com/peep-stack/building-a-performant-web-app-with-ember-fastboot-and-phoenix-part-1-fa1241654308#.f71xu6y19
-  5. https://youtu.be/pl3qRS0Iky4 - Ember at Netflix
+  5. https://youtu.be/pl3qRS0Iky4 - Ember at Netflix - addon is no longer usable :(
