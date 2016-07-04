@@ -16,12 +16,11 @@
     * import hbs from 'htmlbars-inline-precompile';
     * layout: hbs`some handbars`
   12. https://github.com/ember-cli/ember-try
-  13. https://github.com/Netflix/ember-nf-graph
-  14. The Ember Run Loop :-(
-  15. https://github.com/ember-animation/liquid-fire <-can believe I forgot this
-  16. https://github.com/vestorly/torii
-  17. https://github.com/simplabs/ember-simple-auth
-  18. https://github.com/brzpegasus/ember-d3 or https://github.com/ming-codes/ember-cli-d3 i dunno
+  13. The Ember Run Loop :-(
+  14. https://github.com/ember-animation/liquid-fire <-can believe I forgot this
+  15. https://github.com/vestorly/torii
+  16. https://github.com/simplabs/ember-simple-auth
+  17. https://github.com/brzpegasus/ember-d3 or https://github.com/ming-codes/ember-cli-d3 i dunno
     * https://github.com/LocusEnergy/ember-d3-helpers
 
 ## Links
