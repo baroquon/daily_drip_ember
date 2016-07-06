@@ -9,6 +9,7 @@
     * import hbs from 'htmlbars-inline-precompile';
     * layout: hbs`some handbars`
   * Components inheriting from other components
+  * Firebase
   * pushPayload and push (SSE / Web Sockets)
   * EmberUploader
   * Build an addon
@@ -23,6 +24,7 @@
   * https://github.com/simplabs/ember-simple-auth
   * https://github.com/brzpegasus/ember-d3 or https://github.com/ming-codes/ember-cli-d3 i dunno
     * https://github.com/LocusEnergy/ember-d3-helpers
+  * https://github.com/elwayman02/ember-user-activity
 
 ## Links
 
