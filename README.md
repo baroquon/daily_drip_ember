@@ -18,7 +18,7 @@
   * [Monday - Solution and Test Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week3/003.1.md)
   * [Tuesday - Unit and Integration Tests](https://github.com/baroquon/daily_drip_ember/blob/master/Week3/003.2.md)
   * [Wednesday - Acceptance Tests](https://github.com/baroquon/daily_drip_ember/blob/master/Week3/003.3.md)
-  * Thursday
+  * [Thursday - Ember CLI Mirage](https://github.com/baroquon/daily_drip_ember/blob/master/Week3/003.4.md)
   * Friday
 
 ## Week 4
