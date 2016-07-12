@@ -9,6 +9,7 @@
     * import hbs from 'htmlbars-inline-precompile';
     * layout: hbs`some handbars`
   * Components inheriting from other components
+  * [Ember Exam Addon](https://github.com/trentmwillis/ember-exam) Has been linked but maybe discuss it.
   * Firebase
   * pushPayload and push (SSE / Web Sockets)
   * EmberUploader
@@ -19,6 +20,7 @@
   * http://jkusa.github.io/ember-redux-helpers - https://vimeo.com/166199795?utm_content=buffer00df9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
   * https://github.com/ember-cli/ember-try
   * The Ember Run Loop :-(
+    * http://www.peterfessel.com/2015/04/a-brief-history-of-time-the-ember-run-loop-in-short/
   * https://github.com/ember-animation/liquid-fire <-can believe I forgot this
   * https://github.com/vestorly/torii
   * https://github.com/simplabs/ember-simple-auth
