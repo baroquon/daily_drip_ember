@@ -19,11 +19,11 @@
   * [Tuesday - Unit and Integration Tests](https://github.com/baroquon/daily_drip_ember/blob/master/Week3/003.2.md)
   * [Wednesday - Acceptance Tests](https://github.com/baroquon/daily_drip_ember/blob/master/Week3/003.3.md)
   * [Thursday - Ember CLI Mirage](https://github.com/baroquon/daily_drip_ember/blob/master/Week3/003.4.md)
-  * Friday
+  * [Friday - Exercise and Link Dump](https://github.com/baroquon/daily_drip_ember/blob/master/Week3/003.5.md)
 
 ## Week 4
-  * Monday
-  * Tuesday
+  * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week4/004.1.md)
+  * [Tuesday - School Directory some Components](https://github.com/baroquon/daily_drip_ember/blob/master/Week4/004.2.md)
   * Wednesday
   * Thursday
   * Friday
