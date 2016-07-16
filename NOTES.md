@@ -11,7 +11,7 @@
   * Components inheriting from other components
   * [Ember Exam Addon](https://github.com/trentmwillis/ember-exam) Has been linked but maybe discuss it.
   * Firebase
-  * pushPayload and push (SSE / Web Sockets)
+  * pushPayload and push (SSE / Web Sockets) https://github.com/thoov/ember-websockets
   * EmberUploader
   * Build an addon
   * Fastboot http://www.ember-fastboot.com/ - Shoebox for the data
@@ -27,6 +27,7 @@
   * https://github.com/brzpegasus/ember-d3 or https://github.com/ming-codes/ember-cli-d3 i dunno
     * https://github.com/LocusEnergy/ember-d3-helpers
   * https://github.com/elwayman02/ember-user-activity
+  * http://offirgolan.github.io/ember-light-table/docs/modules/Home.html
 
 ## Links
 
