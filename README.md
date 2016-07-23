@@ -8,7 +8,11 @@
   * [Friday - Exercise - Building Nested Routes](https://github.com/baroquon/daily_drip_ember/blob/master/Week1/001.5.md)
 
 ## Week 2
-  * TODO: Need to Link
+  * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.1.md)
+  * [Tuesday - Ember Route Hooks](https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.2.md)
+  * [Wednesday - Instantiating Components](https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.3.md)
+  * [Thursday - The Component Lifecycle](https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.4.md)
+  * [Friday - Exercise](https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.5.md)
 
 
 ## Week 3
@@ -28,14 +32,6 @@
 ## Week 5
   * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week5/005.1.md)
   * [Tuesday - School Directory some Components](https://github.com/baroquon/daily_drip_ember/blob/master/Week5/005.2.md)
-  * Wednesday
-  * Thursday
-  * Friday
-
-
-## Week 5
-  * Monday
-  * Tuesday
   * Wednesday
   * Thursday
   * Friday
