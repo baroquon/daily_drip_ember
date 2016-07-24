@@ -36,3 +36,4 @@
   * ~~https://dockyard.com/blog/2015/03/24/rubyists-guide-to-ember-dependencies~~
   * https://medium.com/peep-stack/building-a-performant-web-app-with-ember-fastboot-and-phoenix-part-1-fa1241654308#.f71xu6y19
   * ~~https://youtu.be/pl3qRS0Iky4 - Ember at Netflix - addon is no longer usable :(~~
+  * https://the-emberjs-times.ongoodbits.com/subscribe
