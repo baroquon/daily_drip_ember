@@ -4,11 +4,12 @@
 
   * ~~Peek vs find (include backgroundReload notes)~~ https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.3.md
   * ~~query !== live array~~ https://github.com/baroquon/daily_drip_ember/blob/master/Week2/002.3.md
-  * Component Helper: https://dockyard.com/blog/2016/05/13/component-helper - I think this came around in 1.11 or so.
+  * ~~Component Helper: https://dockyard.com/blog/2016/05/13/component-helper - I think this came around in 1.11 or so.~~
   * component layout property
     * import hbs from 'htmlbars-inline-precompile';
     * layout: hbs`some handbars`
   * Components inheriting from other components
+  * https://github.com/DockYard/ember-composable-helpers
   * [Ember Exam Addon](https://github.com/trentmwillis/ember-exam) Has been linked but maybe discuss it.
   * Firebase
   * pushPayload and push (SSE / Web Sockets) https://github.com/thoov/ember-websockets
@@ -17,11 +18,12 @@
   * Fastboot http://www.ember-fastboot.com/ - Shoebox for the data
   * https://emberway.io/ember-concurrency-the-solution-to-so-many-problems-you-never-knew-you-had-cce6d7731ba9#.nb4q84mht
   * https://github.com/nolanlawson/ember-pouch
-  * http://jkusa.github.io/ember-redux-helpers - https://vimeo.com/166199795?utm_content=buffer00df9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+  * http://jkusa.github.io/ember-redux-helpers - https://vimeo.com/166199795
+    * Ember Redux and maybe a pong style game?
   * https://github.com/ember-cli/ember-try
   * The Ember Run Loop :-(
     * http://www.peterfessel.com/2015/04/a-brief-history-of-time-the-ember-run-loop-in-short/
-  * https://github.com/ember-animation/liquid-fire <-can believe I forgot this
+  * https://github.com/ember-animation/liquid-fire
   * https://github.com/vestorly/torii
   * https://github.com/simplabs/ember-simple-auth
   * https://github.com/brzpegasus/ember-d3 or https://github.com/ming-codes/ember-cli-d3 i dunno
