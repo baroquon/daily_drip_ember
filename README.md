@@ -24,26 +24,24 @@
 
 ## Week 4
   * [Monday - Solution and Test Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week4/004.1.md)
-  * [Tuesday - Unit and Integration Tests](https://github.com/baroquon/daily_drip_ember/blob/master/Week4/004.2.md)
-  * [Wednesday - Acceptance Tests](https://github.com/baroquon/daily_drip_ember/blob/master/Week4/004.3.md)
-  * [Thursday - Ember CLI Mirage](https://github.com/baroquon/daily_drip_ember/blob/master/Week4/004.4.md)
-  * [Friday - Exercise and Link Dump](https://github.com/baroquon/daily_drip_ember/blob/master/Week4/004.5.md)
-
-## Week 5
-  * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week5/005.1.md)
-  * [Tuesday - School Directory some Components](https://github.com/baroquon/daily_drip_ember/blob/master/Week5/005.2.md)
-  * Wednesday
-  * Thursday
-  * Friday
-
-
-## Week 6
-  * Monday
   * Tuesday
   * Wednesday
   * Thursday
   * Friday
 
+## Week 5
+  * Monday
+  * [Tuesday - Unit and Integration Tests](https://github.com/baroquon/daily_drip_ember/blob/master/Week5/005.2.md)
+  * [Wednesday - Acceptance Tests](https://github.com/baroquon/daily_drip_ember/blob/master/Week5/005.3.md)
+  * [Thursday - Ember CLI Mirage](https://github.com/baroquon/daily_drip_ember/blob/master/Week5/005.4.md)
+  * [Friday - Exercise and Link Dump](https://github.com/baroquon/daily_drip_ember/blob/master/Week5/005.5.md)
+
+## Week 6
+  * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week6/006.1.md)
+  * [Tuesday - School Directory some Components](https://github.com/baroquon/daily_drip_ember/blob/master/Week6/006.2.md)
+  * Wednesday
+  * Thursday
+  * [Friday - Link Dump and Exercise](https://github.com/baroquon/daily_drip_ember/blob/master/Week6/006.5.md)
 
 ## Week 7
   * Monday
