@@ -24,7 +24,7 @@
 
 ## Week 4
   * [Monday - Solution and Test Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week4/004.1.md)
-  * Tuesday
+  * [Tuesday - Ember Services: Load it Lazy-like and Let's throw in a Bower Package](https://github.com/baroquon/daily_drip_ember/blob/master/Week4/004.2.md)
   * Wednesday
   * Thursday
   * Friday

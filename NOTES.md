@@ -40,3 +40,4 @@
   * ~~https://youtu.be/pl3qRS0Iky4 - Ember at Netflix - addon is no longer usable :(~~
   * https://the-emberjs-times.ongoodbits.com/subscribe
   * https://vimeo.com/146851881 super involved video on torii
+  * http://codeandtechno.com/posts/import-an-external-library-as-an-ES6-module-in-ember-js/ - addon global js to module
