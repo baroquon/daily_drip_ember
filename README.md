@@ -23,14 +23,14 @@
   * [Friday - Exercise - Building Nested Route with a Model](https://github.com/baroquon/daily_drip_ember/blob/master/Week3/003.5.md)
 
 ## Week 4
-  * [Monday - Solution and Test Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week4/004.1.md)
+  * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week4/004.1.md)
   * [Tuesday - Ember Services: Load it Lazy-like and Let's throw in a Bower Package](https://github.com/baroquon/daily_drip_ember/blob/master/Week4/004.2.md)
   * [Wednesday - Ember Services: Initializers](https://github.com/baroquon/daily_drip_ember/blob/master/Week4/004.3.md)
   * [Thursday - Changing Service Data](https://github.com/baroquon/daily_drip_ember/blob/master/Week4/004.4.md)
-  * Friday
+  * [Friday - Exercise and Links](https://github.com/baroquon/daily_drip_ember/blob/master/Week4/004.5.md)
 
 ## Week 5
-  * Monday
+  * [Monday Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week5/005.1.md)
   * [Tuesday - Unit and Integration Tests](https://github.com/baroquon/daily_drip_ember/blob/master/Week5/005.2.md)
   * [Wednesday - Acceptance Tests](https://github.com/baroquon/daily_drip_ember/blob/master/Week5/005.3.md)
   * [Thursday - Ember CLI Mirage](https://github.com/baroquon/daily_drip_ember/blob/master/Week5/005.4.md)

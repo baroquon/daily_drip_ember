@@ -41,3 +41,5 @@
   * https://the-emberjs-times.ongoodbits.com/subscribe
   * https://vimeo.com/146851881 super involved video on torii
   * http://codeandtechno.com/posts/import-an-external-library-as-an-ES6-module-in-ember-js/ - addon global js to module
+  * https://wyeworks.com/blog/2016/7/18/six-useful-ember-addons-for-testing/
+  * [Implementing Authentication with Ember Services](http://emberigniter.com/implementing-authentication-with-ember-services/)
