@@ -39,8 +39,8 @@
 ## Week 6
   * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week6/006.1.md)
   * [Tuesday - School Directory some Components](https://github.com/baroquon/daily_drip_ember/blob/master/Week6/006.2.md)
-  * Wednesday
-  * Thursday
+  * [Wednesday - Building your App for development and Production](https://github.com/baroquon/daily_drip_ember/blob/master/Week6/006.3.md)
+  * [Thursday - Pagination and Ember CLI Mirage](https://github.com/baroquon/daily_drip_ember/blob/master/Week6/006.4.md)
   * [Friday - Link Dump and Exercise](https://github.com/baroquon/daily_drip_ember/blob/master/Week6/006.5.md)
 
 ## Week 7
