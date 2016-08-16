@@ -43,7 +43,7 @@
   * [Thursday - Pagination and Ember CLI Mirage](https://github.com/baroquon/daily_drip_ember/blob/master/Week6/006.4.md)
   * [Friday - Link Dump and Exercise](https://github.com/baroquon/daily_drip_ember/blob/master/Week6/006.5.md)
 
-## Week 7
+## Week 7 Addon Week
   * Monday
   * Tuesday
   * Wednesday
@@ -51,7 +51,7 @@
   * Friday
 
 
-## Week 8
+## Week 8 Fastboot Week
   * Monday
   * Tuesday
   * Wednesday
