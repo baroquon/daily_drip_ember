@@ -44,11 +44,11 @@
   * [Friday - Link Dump and Exercise](https://github.com/baroquon/daily_drip_ember/blob/master/Week6/006.5.md)
 
 ## Week 7 Addon Week
-  * Monday
-  * Tuesday
-  * Wednesday
-  * Thursday
-  * Friday
+  * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week7/007.1.md)
+  * [Tuesday - Starting our addon generating a component](https://github.com/baroquon/daily_drip_ember/blob/master/Week7/007.2.md)
+  * [Wednesday - Testing our addon, dumy app, and Ember Try](https://github.com/baroquon/daily_drip_ember/blob/master/Week7/007.3.md)
+  * [Thursday - Addon service, Object destructuring, and Promises](https://github.com/baroquon/daily_drip_ember/blob/master/Week7/007.4.md)
+  * [Friday - Link Dump and Exercise](https://github.com/baroquon/daily_drip_ember/blob/master/Week7/007.5.md)
 
 
 ## Week 8 Fastboot Week
