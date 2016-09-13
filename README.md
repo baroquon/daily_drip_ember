@@ -52,7 +52,7 @@
 
 
 ## Week 8 Fastboot Week
-  * Monday
+  * [Monday - Addon Service Completion Solution](https://github.com/baroquon/daily_drip_ember/blob/master/Week8/008.1.md)
   * Tuesday
   * Wednesday
   * Thursday
