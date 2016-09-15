@@ -43,3 +43,4 @@
   * http://codeandtechno.com/posts/import-an-external-library-as-an-ES6-module-in-ember-js/ - addon global js to module
   * https://wyeworks.com/blog/2016/7/18/six-useful-ember-addons-for-testing/
   * [Serializers and Adapters](https://www.youtube.com/watch?v=6aWauA9-fV8)
+  * [Optimizing Templates](https://medium.com/square-corner-blog/optimizing-ember-templates-c479d26fe58e#.spx7fqhnl)
