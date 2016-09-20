@@ -30,6 +30,7 @@
     * https://github.com/LocusEnergy/ember-d3-helpers
   * https://github.com/elwayman02/ember-user-activity
   * http://offirgolan.github.io/ember-light-table/docs/modules/Home.html
+  * ENV Variables and custom build configuration stuff - supplying a different backend depending on env variables?
 
 ## Links
 
