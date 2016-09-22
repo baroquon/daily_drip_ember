@@ -13,6 +13,7 @@
   * [Ember Exam Addon](https://github.com/trentmwillis/ember-exam) Has been linked but maybe discuss it.
   * Firebase
   * pushPayload and push (SSE / Web Sockets) https://github.com/thoov/ember-websockets
+    * [An article on live updates yo](http://kellysutton.com/2016/09/10/realtime-apps-with-rails-ember-pusher.html?utm_source=Ember+Weekly&utm_campaign=cdee2e33b2-Ember_Weekly_Issue_175&utm_medium=email&utm_term=0_e96229d21d-cdee2e33b2-106372789)
   * EmberUploader
   * ~~Build an addon~~
   * Fastboot http://www.ember-fastboot.com/ - Shoebox for the data
@@ -41,7 +42,6 @@
   * ~~https://youtu.be/pl3qRS0Iky4 - Ember at Netflix - addon is no longer usable :(~~
   * ~~ https://the-emberjs-times.ongoodbits.com/subscribe ~~
   * https://vimeo.com/146851881 super involved video on torii
-  * http://codeandtechno.com/posts/import-an-external-library-as-an-ES6-module-in-ember-js/ - addon global js to module
-  * https://wyeworks.com/blog/2016/7/18/six-useful-ember-addons-for-testing/
+  * ~~https://wyeworks.com/blog/2016/7/18/six-useful-ember-addons-for-testing/~~
   * ~~[Serializers and Adapters](https://www.youtube.com/watch?v=6aWauA9-fV8)~~
   * [Optimizing Templates](https://medium.com/square-corner-blog/optimizing-ember-templates-c479d26fe58e#.spx7fqhnl)

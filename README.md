@@ -53,10 +53,10 @@
 
 ## Week 8 Fastboot Week
   * [Monday - Addon Service Completion Solution](https://github.com/baroquon/daily_drip_ember/blob/master/Week8/008.1.md)
-  * Tuesday
-  * Wednesday
-  * Thursday
-  * Friday
+  * [Tuesday - Completing our addon filling out the readme, publishing to npm, setting up CI](https://github.com/baroquon/daily_drip_ember/blob/master/Week8/008.2.md)
+  * [Wednesday - Back to Actions: Some more details](https://github.com/baroquon/daily_drip_ember/blob/master/Week8/008.3.md)
+  * [Thursday - Serializers: Munging some payloads](https://github.com/baroquon/daily_drip_ember/blob/master/Week8/008.4.md)
+  * [Friday - Links Dump and an Exercise](https://github.com/baroquon/daily_drip_ember/blob/master/Week8/008.5.md)
 
 
 ## Week 9
