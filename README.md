@@ -61,7 +61,7 @@
 
 ## Week 9
   * [Monday - Solution to Serializing Irregular Payload with an Embedded Record](https://github.com/baroquon/daily_drip_ember/blob/master/Week9/009.1.md)
-  * [Tuesday - Deploying an Ember App to Heroku](https://github.com/baroquon/daily_drip_ember/blob/master/Week9/009.1.md)
+  * [Tuesday - Creating and Updating Records](https://github.com/baroquon/daily_drip_ember/blob/master/Week9/009.2.md)
   * Wednesday
   * Thursday
   * Friday
