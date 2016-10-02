@@ -61,9 +61,9 @@
 
 ## Week 9
   * [Monday - Solution to Serializing Irregular Payload with an Embedded Record](https://github.com/baroquon/daily_drip_ember/blob/master/Week9/009.1.md)
-  * [Tuesday - Creating and Updating Records](https://github.com/baroquon/daily_drip_ember/blob/master/Week9/009.2.md)
-  * Wednesday
-  * Thursday
+  * [Tuesday - Updating Records and using Ember Changeset](https://github.com/baroquon/daily_drip_ember/blob/master/Week9/009.2.md)
+  * [Wednesday - Validating Changes with Ember Change Validations](https://github.com/baroquon/daily_drip_ember/blob/master/Week9/009.3.md)
+  * [Thursday - Creating and Deleting Records](https://github.com/baroquon/daily_drip_ember/blob/master/Week9/009.4.md)
   * Friday
 
 
