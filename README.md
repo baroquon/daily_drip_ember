@@ -68,7 +68,7 @@
 
 
 ## Week 10
-  * Monday
+  * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week10/010.1.md)
   * Tuesday
   * Wednesday
   * Thursday
