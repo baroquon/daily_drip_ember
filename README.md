@@ -69,7 +69,7 @@
 
 ## Week 10
   * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week10/010.1.md)
-  * Tuesday
+  * [Tuesday - Beginning to look at the Run loop](https://github.com/baroquon/daily_drip_ember/blob/master/Week10/010.2.md)
   * Wednesday
   * Thursday
   * Friday
