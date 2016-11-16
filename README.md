@@ -80,7 +80,7 @@
   * [Tuesday - Deploying to Heroku](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.2.md)
   * [Wednesday - Fastboot and Deploying Fastboot to Heroku](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.3.md)
   * [Thursday - Once More with Computed Properties](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.4.md)
-  * Friday
+  * [Friday - Links and Exercise](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.5.md)
 
 
 ## Week 12
