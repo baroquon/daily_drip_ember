@@ -43,7 +43,7 @@
   * [Thursday - Pagination and Ember CLI Mirage](https://github.com/baroquon/daily_drip_ember/blob/master/Week6/006.4.md)
   * [Friday - Link Dump and Exercise](https://github.com/baroquon/daily_drip_ember/blob/master/Week6/006.5.md)
 
-## Week 7 Addon Week
+## Week 7
   * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week7/007.1.md)
   * [Tuesday - Starting our addon generating a component](https://github.com/baroquon/daily_drip_ember/blob/master/Week7/007.2.md)
   * [Wednesday - Testing our addon, dumy app, and Ember Try](https://github.com/baroquon/daily_drip_ember/blob/master/Week7/007.3.md)
@@ -51,7 +51,7 @@
   * [Friday - Link Dump and Exercise](https://github.com/baroquon/daily_drip_ember/blob/master/Week7/007.5.md)
 
 
-## Week 8 Fastboot Week
+## Week 8
   * [Monday - Addon Service Completion Solution](https://github.com/baroquon/daily_drip_ember/blob/master/Week8/008.1.md)
   * [Tuesday - Completing our addon filling out the readme, publishing to npm, setting up CI](https://github.com/baroquon/daily_drip_ember/blob/master/Week8/008.2.md)
   * [Wednesday - Back to Actions: Some more details](https://github.com/baroquon/daily_drip_ember/blob/master/Week8/008.3.md)
@@ -79,7 +79,7 @@
   * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.1.md)
   * [Tuesday - Deploying to Heroku](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.2.md)
   * [Wednesday - Fastboot and Deploying Fastboot to Heroku](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.3.md)
-  * [Thursday - Ember CLI Simple Auth](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.4.md)
+  * [Thursday - Once More with Computed Properties](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.4.md)
   * Friday
 
 
