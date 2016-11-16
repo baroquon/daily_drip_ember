@@ -76,10 +76,10 @@
 
 
 ## Week 11
-  * Monday
-  * Tuesday
-  * Wednesday
-  * Thursday
+  * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.1.md)
+  * [Tuesday - Deploying to Heroku](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.2.md)
+  * [Wednesday - Fastboot and Deploying Fastboot to Heroku](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.3.md)
+  * [Thursday - Ember CLI Simple Auth](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.4.md)
   * Friday
 
 
