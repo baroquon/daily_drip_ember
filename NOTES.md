@@ -22,7 +22,7 @@
   * http://jkusa.github.io/ember-redux-helpers - https://vimeo.com/166199795
     * Ember Redux and maybe a pong style game?
   * https://github.com/ember-cli/ember-try
-  * The Ember Run Loop :-(
+  * ~~The Ember Run Loop :-(~~
     * http://www.peterfessel.com/2015/04/a-brief-history-of-time-the-ember-run-loop-in-short/
   * https://github.com/ember-animation/liquid-fire
   * https://github.com/vestorly/torii
