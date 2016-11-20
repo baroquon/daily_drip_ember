@@ -84,8 +84,13 @@
 
 
 ## Week 12
-  * Monday
-  * Tuesday
-  * Wednesday
-  * Thursday
-  * Friday
+  * [Monday - Exercise and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week12/012.1.md)
+    Here we go over the solutions to the computed exercise and get a few links about templates.
+  * [Tuesday - Utils and Helpers](https://github.com/baroquon/daily_drip_ember/blob/master/Week12/012.2.md)
+    We are looking at using and creating helpers for your templates and utils for use in your JavaScript.
+  * [Wednesday - More details on Template Conditionals](https://github.com/baroquon/daily_drip_ember/blob/master/Week12/012.3.md)
+    We go over Inline conditionals and other uses of `{{else}}`
+  * [Thursday - Component Yield and Tag Attributes](https://github.com/baroquon/daily_drip_ember/blob/master/Week12/012.4.md)
+    Wrapping components can yield context to their wrapped items. We can also really customize a component's HTML element's attributes.
+  * [Friday - Wrapping Up](https://github.com/baroquon/daily_drip_ember/blob/master/Week12/012.5.md)
+    Wrapping up, some places for further learning and some resources to help you moving forward.
