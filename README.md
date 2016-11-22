@@ -77,10 +77,15 @@
 
 ## Week 11
   * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.1.md)
+    Soltution to converting a few observers to computed properties and a few links about Fastboot and Deploys.
   * [Tuesday - Deploying to Heroku](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.2.md)
+    Here we looking at prepping our Ember app to deploy and deploying it to Heroku.
   * [Wednesday - Fastboot and Deploying Fastboot to Heroku](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.3.md)
+    What is Fastboot and how can we use it in our apps?
   * [Thursday - Once More with Computed Properties](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.4.md)
+    Talking about computed properties and watching the values of arrays, and using filter, filterBy, and map.
   * [Friday - Links and Exercise](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.5.md)
+    Here we look at a couple of exercises where we can use Ember's built in computed methods.
 
 
 ## Week 12
