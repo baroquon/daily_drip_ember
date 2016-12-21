@@ -77,7 +77,7 @@
 
 ## Week 11
   * [Monday - Solution and Prep](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.1.md)
-    Soltution to converting a few observers to computed properties and a few links about Fastboot and Deploys.
+    Solution to converting a few observers to computed properties and a few links about Fastboot and Deploys.
   * [Tuesday - Deploying to Heroku](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.2.md)
     Here we looking at prepping our Ember app to deploy and deploying it to Heroku.
   * [Wednesday - Fastboot and Deploying Fastboot to Heroku](https://github.com/baroquon/daily_drip_ember/blob/master/Week11/011.3.md)
